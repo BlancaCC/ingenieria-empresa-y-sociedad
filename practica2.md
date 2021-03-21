@@ -63,7 +63,7 @@ Represente  en  un  diagrama  de  sectores  o  circular  la  estructura  de  cap
 ![Sectoresdistribución](./practica2_4.png)  
 https://docs.google.com/spreadsheets/d/1k-zbsb1iN8ChYxeI_XcUU_sSfmWI4YgQ_VV-qxekLCY/edit?usp=sharing
 
-Tiene una estrucuta dispersa
+Tiene una estructura concentrada en el capital flotante. 
 
 
 
